@@ -6,7 +6,7 @@ class: invert
 header: '[![width:200px](https://elogroup.com.br/wp-content/uploads/2021/10/20210621-v1-01-Marca-Principal.jpg)](https://elogroup.com.br/)'
 ---
 
-<!-- _footer: Gabrielly Barcelos Cariman -->
+<!-- _footer: '[Gabrielly Barcelos Cariman](https://github.com/gabriellybc)' -->
 <!-- _class: default -->
 
 # Avaliação de modelo de dados de vendas de uma loja de e-commerce
@@ -92,6 +92,8 @@ FROM Vendas
 
 ---
 
+<!-- _class: default -->
+
 # Melhorias
 
 - Usar cod_produto como PK de Produto;
@@ -101,3 +103,9 @@ FROM Vendas
 - Fazer uma PK ID_Venda em vendas;
 
 - Usar cod_loja como PK em loja.
+
+---
+
+<!-- _footer: '[Gabrielly Barcelos Cariman](https://github.com/gabriellybc)' -->
+
+# Obrigada!
